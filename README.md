@@ -6,6 +6,12 @@ Below is the repo index of all services present for this application:
 | Service name | Repository link | Service description |
 | ------ | ------ | ----- |
 
+# Important repositories
+Below are some important repositories of products we will use:
+| Name | URL | Description |
+| ------ | ------ | ------ |
+| gRPC Gateway | https://github.com/grpc-ecosystem/grpc-gateway | Helps exposing APIs in both gRPC and Rest |
+
 # Architecture
 
 ## Technologies
