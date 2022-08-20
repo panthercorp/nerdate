@@ -1,4 +1,4 @@
-# Nerdating
+# Nerdate
 A command line dating application for nerds. This application will run via a CLI and will help software engineers to date a nerd with similar skillset, career objective or social presence. This is purely CLI application, so there wont be any UI like a website or an app. It will run either on laptop or mobile devices via CLI only. The final build will support a wide variety of CPU architectures. Users won't be able to see each other via a photo, but they can definitely view each other's github profiles, linkedin profiles, current company, job roles etc.
 
 # Repository index
