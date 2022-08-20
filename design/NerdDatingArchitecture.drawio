@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-20T10:22:51.933Z" agent="5.0 (Macintosh)" etag="Cl36DXMvdS2eu_Sz9cv7" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-20T10:23:43.138Z" agent="5.0 (Macintosh)" etag="yBxyVdEBvZwP5X36uha1" version="20.2.5" type="github">
   <diagram id="_NicEp2t6CpPbq7PptOK" name="Page-1">
     <mxGraphModel dx="1371" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="340" y="50" width="805" height="730" as="geometry" />
         </mxCell>
         <mxCell id="BQYwG80-6be2yZN5s-Ls-1" value="ARCHITECTURE OF NERDATING" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="210" y="120" width="220" height="30" as="geometry" />
+          <mxGeometry x="50" y="90" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQYwG80-6be2yZN5s-Ls-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="BQYwG80-6be2yZN5s-Ls-2" target="BQYwG80-6be2yZN5s-Ls-18">
           <mxGeometry relative="1" as="geometry" />
